@@ -1,0 +1,100 @@
+{
+  "key.enter": {
+    "value": "Vstopi",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1556452223754,
+        "oldValue": "",
+        "newValue": "Vstopi",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Realno",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "",
+        "newValue": "Realna hitrost",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1556452223754,
+        "oldValue": "Realna hitrost",
+        "newValue": "Realno",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Počasneje",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "",
+        "newValue": "Počasnejša hitrost",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1556452223754,
+        "oldValue": "Počasnejša hitrost",
+        "newValue": "Počasneje",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ζ",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "ζ",
+        "explanation": null
+      }
+    ]
+  },
+  "NumberControl.pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1455563592321,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Ohlajanje",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1482962703110,
+        "oldValue": "",
+        "newValue": "Ohlajanje",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Segravanje",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1482962703110,
+        "oldValue": "",
+        "newValue": "Segravanje",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "menuItem.about": {
+    "value": "Acerca de...",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Acerca de...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Buscar actualizaciones...",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Chequear actualizaciones...",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480456693123,
+        "oldValue": "Chequear actualizaciones...",
+        "newValue": "Buscar actualizaciones...",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Buscando actualizaciones...",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Chequeando actualizaciones...",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480456693123,
+        "oldValue": "Chequeando actualizaciones...",
+        "newValue": "Buscando actualizaciones...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Colaboradores: {0}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494641247016,
+        "oldValue": "",
+        "newValue": "Colaboradores: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Créditos",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1460981676657,
+        "oldValue": "",
+        "newValue": "Creditos",
+        "explanation": null
+      },
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "Creditos",
+        "newValue": "Créditos",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "Sonido mejorado",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085277,
+        "oldValue": "",
+        "newValue": "Sonido mejorado",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Pantalla completa",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Pantalla completa",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Actualizar...",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Actualizar...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Artes gráficas:  {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Artes gráficas:  {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Uso del Teclado",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494641247017,
+        "oldValue": "",
+        "newValue": "Uso del Teclado",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "Elaboración de diseño:  {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Elaboración de diseño:  {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "Mail registrado para ingreso de sucesos",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Mail registrado para ingreso de sucesos",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Nueva versión disponible",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Nueva versión disponible",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "No, gracias",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "No, gracias",
+        "explanation": null
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Opciones",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1460981676657,
+        "oldValue": "",
+        "newValue": "Opciones",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Opciones",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Opciones",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "Registro de ingreso y salida de sucesos",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Registro de ingreso y salida de sucesos",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "Sitio web PhET",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1460981676657,
+        "oldValue": "",
+        "newValue": "Sitio web PhET",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Seguro de calidad: {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Seguro de calidad: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Informe un problema",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Informe un problema",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Captura de pantalla",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Captura de pantalla",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Desarrollo de software {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Desarrollo de software {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "Diseño de Sonido: {0}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085278,
+        "oldValue": "",
+        "newValue": "Diseño de Sonido: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "Enviar registro de entrada de sucesos",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Enviar registro de entrada de sucesos",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "Equipo: {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Equipo: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Términos, privacidad y licencias",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Términos, Privacidad y Licencias",
+        "explanation": null
+      },
+      {
+        "userId": 174240,
+        "timestamp": 1472008743430,
+        "oldValue": "Términos, Privacidad y Licencias",
+        "newValue": "Términos, privacidad y licencias",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Gracias",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Gracias",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Hay una nueva versión disponible {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Hay una nueva versión disponible {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Créditos de terceros",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Créditos de terceros",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "La simulación está realizada al día ...",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "La simulación está realizada al ...",
+        "explanation": null
+      },
+      {
+        "userId": 174240,
+        "timestamp": 1476033820032,
+        "oldValue": "La simulación está realizada al ...",
+        "newValue": "La simulación está realizada al día ...",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "Para iniciar",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085278,
+        "oldValue": "",
+        "newValue": "Para iniciar",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Traducción",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Traducción",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Créditos de traducción",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Créditos de traducción",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "No disponible para chequear actualizaciones",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "No disponible para chequear actualizaciones",
+        "explanation": null
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "Versión {0}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Versión {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Su versión actual es: {0}.",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Su versión actual es: {0}.",
+        "explanation": null
+      }
+    ]
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510840035203,
+        "oldValue": "",
+        "newValue": "{{simName}} — {{screenName}}",
+        "explanation": null
+      }
+    ]
+  },
+  "adaptedFrom": {
+    "value": "Adaptación de",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Adaptación desde",
+        "explanation": null
+      },
+      {
+        "userId": 174240,
+        "timestamp": 1476033820032,
+        "oldValue": "Adaptación desde",
+        "newValue": "Adaptación de",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Hecho",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Hecho",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.settings": {
+    "value": "Configuraciones",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Configuraciones",
+        "explanation": null
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "Punteros de muestra",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Punteros de muestra",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Configuraciones",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "Configuraciones",
+        "explanation": null
+      }
+    ]
+  },
+  "titlePattern": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1471832087918,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Modo de proyector",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Modo de proyector",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "scenery-phet",
+  "version": "1.0.0-dev.16",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/scenery-phet.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.0"
+  },
+  "phet": {
+    "generatedUnitTests": true,
+    "requirejsNamespace": "SCENERY_PHET",
+    "preload": [
+      "../sherpa/lib/katex-0.5.1-css-all.js",
+      "../sherpa/lib/katex-0.5.1.min.js"
+    ],
+    "phetLibs": [
+      "twixt"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js",
+    "globals": {
+      "katex": false
+    }
+  }
+}

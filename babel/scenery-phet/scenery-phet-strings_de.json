@@ -1,0 +1,422 @@
+{
+  "key.enter": {
+    "value": "Eingabe",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546442150442,
+        "oldValue": "",
+        "newValue": "Eingabe",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Greife oder setze {{thing}}",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546442150442,
+        "oldValue": "",
+        "newValue": "Greife oder setze {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": " Greife oder setze {{thing}}",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546442150442,
+        "oldValue": "",
+        "newValue": " Greife oder setze {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "oder",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "oder",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Down",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Pg Down",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Leerschlag",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Leerschlag",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tabulator",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Tabulator",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": " {{frequency}} THz",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1549201706490,
+        "oldValue": "",
+        "newValue": " {{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1549199762318,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1549199762318,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Grundoperationen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Grundoperationen",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Ende",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Ende",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Dialog verlassen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Dialog verlassen",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Zurück",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Zurück",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "zwischen Elementen in Gruppe wechseln",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "zwischen Elementen in Gruppe wechseln",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "zum nächsten Element",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "zum nächsten Element",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "nächstes Element oder Gruppe",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "nächstes Element oder Gruppe",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "zurück zum letzten Element",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "zurück zum letzten Element",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "letztes Element oder Gruppe",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "letztes Element oder Gruppe",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Knopf drücken",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1546288317104,
+        "oldValue": "",
+        "newValue": "Knopf drücken",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1538479148885,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Langsam",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1538479148885,
+        "oldValue": "",
+        "newValue": "Langsam",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008409,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Kühlen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1486085612780,
+        "oldValue": "",
+        "newValue": "Kühlen",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Heizen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1486085612780,
+        "oldValue": "",
+        "newValue": "Heizen",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Kurzschluss!",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454852353659,
+        "oldValue": "",
+        "newValue": "Kurzschluss!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL nicht aktiv oder nicht verfügbar. Klicken für Informationen.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473697841687,
+        "oldValue": "",
+        "newValue": "WebGL nicht aktiv oder nicht verfügbar. Klicken für Informationen.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Sorry, ein Grafikfehler ist aufgetreten",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1462784718172,
+        "oldValue": "",
+        "newValue": "Sorry, ein Grafikfehler ist aufgetreten",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "neu laden",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1462784718172,
+        "oldValue": "",
+        "newValue": "neu laden",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Internet Explorer aktualisieren mit den empfohlenen Patches.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473697841687,
+        "oldValue": "",
+        "newValue": "Internet Explorer aktualisieren mit den empfohlenen Patches.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Läuft mit geringer Grafikauflösung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473697841687,
+        "oldValue": "",
+        "newValue": "Läuft mit geringer Grafikauflösung",
+        "explanation": null
+      }
+    ]
+  }
+}

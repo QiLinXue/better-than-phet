@@ -1,0 +1,26 @@
+{
+  "name": "sun",
+  "version": "1.0.0-dev.11",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/sun.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.0"
+  },
+  "phet": {
+    "requirejsNamespace": "SUN",
+    "phetLibs": [
+      "twixt"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js"
+  }
+}

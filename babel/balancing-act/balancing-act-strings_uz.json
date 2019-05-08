@@ -1,0 +1,80 @@
+{
+  "balanceLab": {
+    "value": "Лаборатория по балансам"
+  },
+  "level": {
+    "value": "Уровень"
+  },
+  "people": {
+    "value": "Народ"
+  },
+  "forcesFromObjects": {
+    "value": "Направление силы объекта"
+  },
+  "meters": {
+    "value": "метр"
+  },
+  "kg": {
+    "value": "кг"
+  },
+  "mysteryObjects": {
+    "value": "Волшебный объект"
+  },
+  "massLabelH": {
+    "value": "H"
+  },
+  "massLabelG": {
+    "value": "G"
+  },
+  "rulers": {
+    "value": "Линейка"
+  },
+  "massLabelF": {
+    "value": "F"
+  },
+  "massLabelE": {
+    "value": "E"
+  },
+  "massLabelD": {
+    "value": "D"
+  },
+  "massLabels": {
+    "value": "Уровень массы"
+  },
+  "massLabelC": {
+    "value": "C"
+  },
+  "unknownMassLabel": {
+    "value": "?"
+  },
+  "massLabelB": {
+    "value": "B"
+  },
+  "massLabelA": {
+    "value": "A"
+  },
+  "whatIsTheMass": {
+    "value": "Что такое масса?"
+  },
+  "bricks": {
+    "value": "Кирпич"
+  },
+  "pattern0Value1Units": {
+    "value": "{0} {1}"
+  },
+  "balancing-act.title": {
+    "value": "Действие по балансированию"
+  },
+  "intro": {
+    "value": "Введение"
+  },
+  "show": {
+    "value": "Показать"
+  },
+  "game": {
+    "value": "Игра"
+  },
+  "balanceMe": {
+    "value": "балансируй мне"
+  }
+}

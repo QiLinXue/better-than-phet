@@ -1,0 +1,206 @@
+{
+  "key.enter": {
+    "value": "输入",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "输入",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "获取或者释放{{thing}}",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "获取或者释放{{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "获取或者释放{{thing}}",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "获取或者释放{{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "或者",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "或者",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "下一页",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "下一页",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "上一页",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "上一页",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "移动",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "移动",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "空间",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "空间",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "标签",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "标签",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1554287030681,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "正常",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1540971604256,
+        "oldValue": "",
+        "newValue": "正常",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "慢速",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1540971604256,
+        "oldValue": "",
+        "newValue": "慢速",
+        "explanation": null
+      }
+    ]
+  },
+  "NumberControl.pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1460192612883,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "冷",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1492503875859,
+        "oldValue": "",
+        "newValue": "冷",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "热",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1492503875859,
+        "oldValue": "",
+        "newValue": "热",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "捷径",
+    "history": [
+      {
+        "userId": 293040,
+        "timestamp": 1458182268971,
+        "oldValue": "",
+        "newValue": "捷径",
+        "explanation": null
+      }
+    ]
+  }
+}

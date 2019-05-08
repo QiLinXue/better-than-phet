@@ -1,0 +1,50 @@
+{
+  "cool": {
+    "value": "Mātao",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1483157244594,
+        "oldValue": "",
+        "newValue": "Mātao",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Wera",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1483157244594,
+        "oldValue": "",
+        "newValue": "Wera",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1488833064228,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Tāmata",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1457760331862,
+        "oldValue": "",
+        "newValue": "Tāmata",
+        "explanation": null
+      }
+    ]
+  }
+}

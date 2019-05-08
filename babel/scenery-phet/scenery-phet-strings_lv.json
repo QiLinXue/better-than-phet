@@ -1,0 +1,438 @@
+{
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Satvert vai atlaist {{thing}}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Satvert vai atlaist {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Satvert vai atlaist {{thing}}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Satvert vai atlaist {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "vai",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "vai",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Space",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Spece",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "Spece",
+        "newValue": "Space",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1549556653263,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Pamata darbības",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pamata darbības",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Aizvērt dialogu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Aizvērt dialogu",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Home",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Pārvietoties starp elementiem grupā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pārvietoties starp elementiem grupā",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Pārvietoties uz nākamo elementu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pārvietoties uz nākamo elementu",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Pārvietoties uz nākamo elementu vai grupu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pārvietoties uz nākamo elementu vai grupu",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Pārvietoties uz iepriekšējo elementu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pārvietoties uz iepriekšējo elementu",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Pārvietoties uz iepriekšējo elementu vai grupu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Pārvietoties uz iepriekšējo elementu vai grupu",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Nospiest pogas",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Nospiest pogas",
+        "explanation": null
+      }
+    ]
+  },
+  "NumberControl.pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457175180799,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914861340,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Dzesēt",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1482336972143,
+        "oldValue": "",
+        "newValue": "Sildīt",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1482872681439,
+        "oldValue": "Sildīt",
+        "newValue": "Dzesēt",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Sildīt",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1482336972143,
+        "oldValue": "",
+        "newValue": "Dzesēt",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1482872681439,
+        "oldValue": "Dzesēt",
+        "newValue": "Sildīt",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Īssavienojums!",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457180250317,
+        "oldValue": "",
+        "newValue": "Īssavienojums!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914861340,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL nav ieslēgts vai pieejams. Noklikšķiniet, lai uzzinātu vairāk.",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457179636309,
+        "oldValue": "",
+        "newValue": "WebGL nav ieslēgts vai nav pieejams. Noklikšķiniet, lai uzzinātu vairāk.",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1457179685457,
+        "oldValue": "WebGL nav ieslēgts vai nav pieejams. Noklikšķiniet, lai uzzinātu vairāk.",
+        "newValue": "WebGL nav ieslēgts vai pieejams. Noklikšķiniet, lai uzzinātu vairāk.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Atvainojiet, radās grafiskās apstrādes kļūda.",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457177269824,
+        "oldValue": "",
+        "newValue": "Atvainojiet, radās grafiskās apstrādes kļūda.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Pārlādēt",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457177269824,
+        "oldValue": "",
+        "newValue": "Pārlādēt",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Atjauniniet Internet Explorer versiju, instalējot ieteicamos Windows Update atjauninājumus.",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457179636309,
+        "oldValue": "",
+        "newValue": "Atjauniniet Internet Explorer versiju, instalējot ieteicamos Windows Update atjauninājumus.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Darbojas zemā grafiskajā kvalitātē",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1457179636309,
+        "oldValue": "",
+        "newValue": "Darbojas zemā grafiskajā kvalitātē",
+        "explanation": null
+      }
+    ]
+  }
+}

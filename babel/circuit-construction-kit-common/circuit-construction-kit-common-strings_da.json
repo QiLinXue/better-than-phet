@@ -1,0 +1,633 @@
+{
+  "ammeter": {
+    "value": "Amperemeter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Amperemeter",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509423764968,
+        "oldValue": "Amperemeter",
+        "newValue": "Ampéremeter",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509424062099,
+        "oldValue": "Ampéremeter",
+        "newValue": "Amperemeter",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperemetre",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Amperemetre",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509423764968,
+        "oldValue": "Amperemetre",
+        "newValue": "Ampéremetre",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509424062099,
+        "oldValue": "Ampéremetre",
+        "newValue": "Amperemetre",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Animationens hastighedsgrænse er nået! Simuleringshastighed reduceret til {{percent}}% af normal.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383942263,
+        "oldValue": "",
+        "newValue": "Animationens hastighedsgrænse er nået! Simuleringshastighed reduceret til {{percent}}% af normal.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Batteri",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Batteri",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Batterimodstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Batterimodstand",
+        "explanation": null
+      }
+    ]
+  },
+  "coin": {
+    "value": "Mønt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Mønt",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Traditionel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Konventionel",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509395137129,
+        "oldValue": "Konventionel",
+        "newValue": "Traditionel",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Strøm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Strøm",
+        "explanation": null
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{{strøm}} A",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{strøm}} A",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "dog": {
+    "value": "Hund",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Hund",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Pengeseddel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Pengeseddel",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektroner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Elektroner",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Viskelæder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509384405598,
+        "oldValue": "",
+        "newValue": "Viskelæder",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Hånd",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "Hånd",
+        "explanation": null
+      }
+    ]
+  },
+  "labels": {
+    "value": "Betegnelser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509386726108,
+        "oldValue": "",
+        "newValue": "Betegnelser",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Elpære",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Elpære",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "stor",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "mange",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509386385309,
+        "oldValue": "mange",
+        "newValue": "stor",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509386714800,
+        "oldValue": "stor",
+        "newValue": "mange",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509424062099,
+        "oldValue": "mange",
+        "newValue": "stor",
+        "explanation": null
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Papirclips",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Papirclips",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Blyant",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Blyant",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383313421,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Modstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Modstand",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{{modstand}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{modstand}} ohm",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509386714801,
+        "oldValue": "{{resistance}} ohm",
+        "newValue": "{{resistance}} Ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509423764969,
+        "oldValue": "{{resistance}} Ohm",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{{modstand}} Ω",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{modstand}} Ω",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{{modstand}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{modstand}} ohm",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509386714801,
+        "oldValue": "{{resistance}} ohm",
+        "newValue": "{{resistance}} Ohm",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509423764969,
+        "oldValue": "{{resistance}} Ohm",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Modstand ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Modstand ",
+        "explanation": null
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Vis strøm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Vis strøm",
+        "explanation": null
+      }
+    ]
+  },
+  "switch": {
+    "value": "Kontakt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Kontakt",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Træk i kredsløbs-elementerne og byg.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509384405598,
+        "oldValue": "",
+        "newValue": "Træk i kredsløbs-elementerne og byg.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Kontakten er tændt.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Kontakten er tænt.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509515055391,
+        "oldValue": "Kontakten er tænt.",
+        "newValue": "Kontakten er tændt.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Kontakten er slukket.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Kontakten er slukket.",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "lille",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383942263,
+        "oldValue": "",
+        "newValue": "lille",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Værdier",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Spænding",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Spænding",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{{spænding}} V",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{spænding}} V",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "{spænding}} volt",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509384405599,
+        "oldValue": "{spænding}} volt",
+        "newValue": "{{spænding}} volt",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509385925287,
+        "oldValue": "{{spænding}} volt",
+        "newValue": "{{voltage}} volt",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509386714801,
+        "oldValue": "{{voltage}} volt",
+        "newValue": "{{voltage}} Volt",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509395137130,
+        "oldValue": "{{voltage}} Volt",
+        "newValue": "{{voltage}} volt",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmeter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Voltmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Ledning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383733272,
+        "oldValue": "",
+        "newValue": "Tråd",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509395137130,
+        "oldValue": "Tråd",
+        "newValue": "Ledning",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Ledningernes modstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1509383942263,
+        "oldValue": "",
+        "newValue": "Trådens nodstand",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509395137130,
+        "oldValue": "Trådens nodstand",
+        "newValue": "Ledningens modstand",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1509515055391,
+        "oldValue": "Ledningens modstand",
+        "newValue": "Ledningernes modstand",
+        "explanation": null
+      }
+    ]
+  }
+}

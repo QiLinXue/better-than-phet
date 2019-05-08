@@ -1,0 +1,575 @@
+{
+  "accelerationVectors": {
+    "value": "Accelerations-vektorer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Accelerations-vektorer",
+        "explanation": null
+      }
+    ]
+  },
+  "airResistance": {
+    "value": "Luftmodstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Luftmodstand",
+        "explanation": null
+      }
+    ]
+  },
+  "altitude": {
+    "value": "Højde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Højde",
+        "explanation": null
+      }
+    ]
+  },
+  "angle": {
+    "value": "Vinkel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Vinkel",
+        "explanation": null
+      }
+    ]
+  },
+  "baseball": {
+    "value": "Baseball",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Baseball",
+        "explanation": null
+      }
+    ]
+  },
+  "cannonball": {
+    "value": "Kanonkugle ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Kanonkugle ",
+        "explanation": null
+      }
+    ]
+  },
+  "car": {
+    "value": "Bil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Bil",
+        "explanation": null
+      }
+    ]
+  },
+  "components": {
+    "value": "Komponenter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Komponenter",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Tilfældig",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Tilfældig",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesSymbol": {
+    "value": "˚",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "˚",
+        "explanation": null
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Diameter ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Diameter ",
+        "explanation": null
+      }
+    ]
+  },
+  "dragCoefficient": {
+    "value": "Træk-kofficient",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Træk kofficient",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1503632026124,
+        "oldValue": "Træk kofficient",
+        "newValue": "Træk-kofficient",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "football": {
+    "value": "Fodbold",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Fodbold",
+        "explanation": null
+      }
+    ]
+  },
+  "forceVectors": {
+    "value": "Kraft-vektorer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Kraftvektorer",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1503631071467,
+        "oldValue": "Kraftvektorer",
+        "newValue": "Kraft-vektorer",
+        "explanation": null
+      }
+    ]
+  },
+  "golfBall": {
+    "value": "Golfbold",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Golfbold",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Tiltrækning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Tiltrækning",
+        "explanation": null
+      }
+    ]
+  },
+  "height": {
+    "value": "Højde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Højde",
+        "explanation": null
+      }
+    ]
+  },
+  "human": {
+    "value": "Person",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Person",
+        "explanation": null
+      }
+    ]
+  },
+  "initialSpeed": {
+    "value": "Mundings-hastighed",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Intern hastighed",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1503632026124,
+        "oldValue": "Intern hastighed",
+        "newValue": "Mundings-hastighed",
+        "explanation": null
+      }
+    ]
+  },
+  "initialValues": {
+    "value": "Interne værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Interne værdier",
+        "explanation": null
+      }
+    ]
+  },
+  "kg": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "kg",
+        "explanation": null
+      }
+    ]
+  },
+  "m": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Masse",
+        "explanation": null
+      }
+    ]
+  },
+  "meters": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "meter",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecondSquared": {
+    "value": "m/s²",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "m/s²",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern0Value1Units": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern0Value1UnitsWithSpace": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "piano": {
+    "value": "Piano",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Piano",
+        "explanation": null
+      }
+    ]
+  },
+  "projectile-motion.title": {
+    "value": "Projektil-bevægelse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Projektil-bevægelse",
+        "explanation": null
+      }
+    ]
+  },
+  "pumpkin": {
+    "value": "Græskar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Græskar",
+        "explanation": null
+      }
+    ]
+  },
+  "range": {
+    "value": "Afstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Afstand",
+        "explanation": null
+      }
+    ]
+  },
+  "rangeMessage": {
+    "value": "{{min}} to {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "s",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.drag": {
+    "value": "Træk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630959295,
+        "oldValue": "",
+        "newValue": "Træk",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Intro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorie",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Laboratorie",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.vectors": {
+    "value": "Vektorer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Vektorer",
+        "explanation": null
+      }
+    ]
+  },
+  "slow": {
+    "value": "Langsom",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Langsom",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Hastighed",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Hastighed",
+        "explanation": null
+      }
+    ]
+  },
+  "tankShell": {
+    "value": "Tankstander",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Tankstander",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Tid",
+        "explanation": null
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Total",
+        "explanation": null
+      }
+    ]
+  },
+  "velocityVectors": {
+    "value": "Hastigheds-vektorer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1503630465371,
+        "oldValue": "",
+        "newValue": "Hastigheds-vektorer",
+        "explanation": null
+      }
+    ]
+  }
+}

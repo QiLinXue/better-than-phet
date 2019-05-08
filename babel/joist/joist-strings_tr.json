@@ -1,0 +1,455 @@
+{
+  "menuItem.about": {
+    "value": "Hakkında...",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Hakkında",
+        "explanation": null
+      },
+      {
+        "userId": 388777,
+        "timestamp": 1481973521044,
+        "oldValue": "Hakkında",
+        "newValue": "Hakkında...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Güncellemeler için tıklayınız",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Güncellemeler için tıklayınız",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Güncellemeler kontrol ediliyor",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Güncellemeler kontrol ediliyor",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Katkıda bulunanlar: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1556607334431,
+        "oldValue": "",
+        "newValue": "Katkıda bulunanlar: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Tanıtım",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Tanıtım",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Tam ekran",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Tam ekran",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Güncelle...",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Güncelle",
+        "explanation": null
+      },
+      {
+        "userId": 388777,
+        "timestamp": 1481973521044,
+        "oldValue": "Güncelle",
+        "newValue": "Güncelle...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Grafikler: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Grafikler: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Klavye Kısayolları",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1556607334431,
+        "oldValue": "",
+        "newValue": "Klavye Kısayolları",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "Ana dizayn: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Ana dizayn: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Yeni versiyonu mevcut",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Yeni versiyonu mevcut",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "Hayır, teşekkürler",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Hayır, teşekkürler",
+        "explanation": null
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Ayarlar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Ayarlar",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Ayarlar..",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Ayarlar..",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "Phet Anasayfa",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Phet Anasayfa",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Projektör Modu",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483521961463,
+        "oldValue": "",
+        "newValue": "Projektör Modu",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Kalite Garantisi: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Kalite Garantisi: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Problem Bildir",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Problem Bildir",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Ekran görüntüsü",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Ekran görüntüsü",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Yazılım Geliştirme: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Yazılım Geliştirme: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "Takım: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Takım: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Şartlar, Gizlilik & Lisans",
+    "history": [
+      {
+        "userId": 388777,
+        "timestamp": 1481973521045,
+        "oldValue": "",
+        "newValue": "Şartlar, Gizlilik & Lisans",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Teşekkürler",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Teşekkürler",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Yeni sürüm mevcut: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Yeni sürüm mevcut: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Üçüncü taraf tanıtımı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Üçüncü taraf tanıtımı",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "Simülasyon güncel",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Simülasyon güncel",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "başlamak için",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1556607334431,
+        "oldValue": "",
+        "newValue": "başlamak için",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Çeviri",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Çeviri",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Çeviri tanıtımı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Çeviri tanıtımı",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "Güncellemeler kontrol edilemiyor.",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Güncellemeler kontrol edilemiyor",
+        "explanation": null
+      },
+      {
+        "userId": 388777,
+        "timestamp": 1481973521045,
+        "oldValue": "Güncellemeler kontrol edilemiyor",
+        "newValue": "Güncellemeler kontrol edilemiyor.",
+        "explanation": null
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "Versiyon {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Versiyon {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Kullandığınız versiyon: {0}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Kullandığınız versiyon: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "adaptedFrom": {
+    "value": "adapte edilmiştir",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "adapte edilmiştir",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Tamamlandı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Tamamlandı",
+        "explanation": null
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "İşaretçiyi göster",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "İşaretçiyi göster",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Ayarlar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895116375,
+        "oldValue": "",
+        "newValue": "Ayarlar",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "chemistry": {
+    "value": "Ķīmija",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345911307,
+        "oldValue": "",
+        "newValue": "Ķīmija",
+        "explanation": null
+      }
+    ]
+  },
+  "friction.title": {
+    "value": "Berze",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345911308,
+        "oldValue": "",
+        "newValue": "Berze",
+        "explanation": null
+      }
+    ]
+  },
+  "physics": {
+    "value": "Fizika",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345911308,
+        "oldValue": "",
+        "newValue": "Fizika",
+        "explanation": null
+      }
+    ]
+  }
+}

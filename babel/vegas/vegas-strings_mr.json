@@ -1,0 +1,230 @@
+{
+  "check": {
+    "value": "तपासा",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "तपासा",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "पुढे ",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "पुढे ",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "अप्रतिम",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "अप्रतिम",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "शाब्बास!",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "शाब्बास!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "ग्रेट !",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "ग्रेट !",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "प्रयत्न करा",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "प्रयत्न करा",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "पातळी: {0}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "पातळी: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score": {
+    "value": "गुण : {0}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "गुण : {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": " {1} पैकी  {0} गुण",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": " {1} पैकी  {0} गुण",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "वेळ : {0}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "वेळ : {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "पुढील",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1486474584198,
+        "oldValue": "",
+        "newValue": "पुढील",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "आव्हान {0} of {1}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488638955535,
+        "oldValue": "",
+        "newValue": "आव्हान {0} of {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(तुमचे सर्वोत्तम गुण : {0})",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "(तुमचे सर्वोत्तम गुण : {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "उत्तर दाखवा",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488716091394,
+        "oldValue": "",
+        "newValue": "उत्तर दाखवा",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "पुन्हा सुरु करा",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488638955535,
+        "oldValue": "",
+        "newValue": "पुन्हा सुरु करा",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "पुन्हा प्रयत्न करा",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "पुन्हा प्रयत्न करा",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(तुमचे नविन सर्वोत्तम गुण)",
+    "history": [
+      {
+        "userId": 151505,
+        "timestamp": 1488543743993,
+        "oldValue": "",
+        "newValue": "(तुमचे नविन सर्वोत्तम गुण)",
+        "explanation": null
+      }
+    ]
+  }
+}

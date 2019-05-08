@@ -1,0 +1,527 @@
+{
+  "cool": {
+    "value": "Frío",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Frio",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1507585895537,
+        "oldValue": "Frio",
+        "newValue": "Frío",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085277,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Agarra o Suelta {{thing}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085277,
+        "oldValue": "",
+        "newValue": "Agarra o Suelta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Agarra o suelta {{thing}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085277,
+        "oldValue": "",
+        "newValue": "Agarra o suelta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Calor",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Calor",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "o",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "o",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Av Pág",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085278,
+        "oldValue": "",
+        "newValue": "Pg abajo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "Pg abajo",
+        "newValue": "Av Pág",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1546884931647,
+        "oldValue": "Av Pág",
+        "newValue": "Pg abajo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1548968131638,
+        "oldValue": "Pg abajo",
+        "newValue": "Av Pág",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1548979563196,
+        "oldValue": "Av Pág",
+        "newValue": "Pg abajo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1553206716555,
+        "oldValue": "Pg abajo",
+        "newValue": "Av Pág",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Re Pág",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085278,
+        "oldValue": "",
+        "newValue": "Pg arriba",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "Pg arriba",
+        "newValue": "Re Pág",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1546884931647,
+        "oldValue": "Re Pág",
+        "newValue": "Pg arriba",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1548968131638,
+        "oldValue": "Pg arriba",
+        "newValue": "Re Pág",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1548979563196,
+        "oldValue": "Re Pág",
+        "newValue": "Pg arriba",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1553206716556,
+        "oldValue": "Pg arriba",
+        "newValue": "Re Pág",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "shift",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "shift",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1546884931647,
+        "oldValue": "shift",
+        "newValue": "Shift",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1548968131638,
+        "oldValue": "Shift",
+        "newValue": "shift",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1548979563196,
+        "oldValue": "shift",
+        "newValue": "Shift",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1553206716556,
+        "oldValue": "Shift",
+        "newValue": "shift",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Espacio",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581085278,
+        "oldValue": "",
+        "newValue": "Espacio",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1548979563196,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1548860304411,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1548860304411,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Acciones Básicas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "",
+        "newValue": "Acciones Básicas",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Fin",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "",
+        "newValue": "Fin",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Salir",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "Salir",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Inicio",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "",
+        "newValue": "Inicio",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "mover entre los elementos del grupo",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "mover entre los elementos del grupo",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "mover al siguiente elemento",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "mover al siguiente elemento",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "mover al siguiente elemento o grupo",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "mover al siguiente elemento o grupo",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "mover al elemento anterior",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "mover al elemento anterior",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "mover al elemento o grupo anterior ",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "mover al elemento o grupo anterior ",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Presiona botones",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460028683,
+        "oldValue": "",
+        "newValue": "Presiona botones",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Lento",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1537466340434,
+        "oldValue": "",
+        "newValue": "Lento",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "Navegación general",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516647424682,
+        "oldValue": "",
+        "newValue": "Navegación general",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1472008743430,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "¡Cortocircuito!",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1480452313554,
+        "oldValue": "",
+        "newValue": "¡Cortocircuito!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1472008743429,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL no está habilitado o no está disponible. Haz click para aprender mas.",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1483416745078,
+        "oldValue": "",
+        "newValue": "WebGL no está habilitado o no está disponible. Haz click para aprender mas.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Lo sentimos, se ha producido un error de gráficos.",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1483416745078,
+        "oldValue": "",
+        "newValue": "Lo sentimos, se ha producido un error de gráficos.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Recargar",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1483416745078,
+        "oldValue": "",
+        "newValue": "Recargar",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Actualice Internet Explorer instalando los parches recomendados de Windows Update.",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1483416745078,
+        "oldValue": "",
+        "newValue": "Actualice Internet Explorer instalando los parches recomendados de Windows Update.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Ejecutar con gráficos de baja caidad",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1483416745078,
+        "oldValue": "",
+        "newValue": "Ejecutar con gráficos de baja caidad",
+        "explanation": null
+      }
+    ]
+  }
+}

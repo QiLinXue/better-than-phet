@@ -1,0 +1,91 @@
+{
+  "comment": "# tambo 1.0.0-dev.7 Tue Aug 21 2018 16:27:38 GMT-0600 (Mountain Daylight Time)",
+  "assert": {
+    "sha": "928741cfc8fe804334d5b35292140314511f8678",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "92babead5fb76ca3a9950d989fe9516ecde37844",
+    "branch": "master"
+  },
+  "brand": {
+    "sha": "89d28f6309a83eb51b6c1fc0130e76ad7935f09e",
+    "branch": "master"
+  },
+  "chipper": {
+    "sha": "5cdb29e703edf9bbac49555b571bd673ef267152",
+    "branch": "master"
+  },
+  "dot": {
+    "sha": "ec55f03fc4fd73cc8c9b0d3b9d60befde4bea40d",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "bc1decf1e76082366b93593211b867ec5a2fd4b1",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "8b11a7177f63749af37380e2cd33f69e9c36e497",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "9ad49f86b09ff2882617e1a0a865dd0afd043e4d",
+    "branch": "master"
+  },
+  "phet-io": {
+    "sha": "bb2729d6288d70f1dca30ee98f6dd8fc95d28e78",
+    "branch": "master"
+  },
+  "phet-io-wrapper-classroom-activity": {
+    "sha": "abc4ae3eda746b338cc8ea08ea0b3ee0cd037c82",
+    "branch": "master"
+  },
+  "phet-io-wrapper-hookes-law-energy": {
+    "sha": "39a153bdf4d84d054a8decf81347573f50a7bcc0",
+    "branch": "master"
+  },
+  "phet-io-wrapper-lab-book": {
+    "sha": "868e17c89689d38106be87b2ce9f9605ded895f2",
+    "branch": "master"
+  },
+  "phet-io-wrappers": {
+    "sha": "292a6b1201d38ef74e1ec6a8169ceb6108ae8f5b",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "1dba87045557b96113e5032e39415863b3f6f10a",
+    "branch": "master"
+  },
+  "query-string-machine": {
+    "sha": "21fd2a0a6535b8e82d0db9adf42cbca3403b6410",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "878a81af026a458d6c3c8740cfcf48f6f42810b5",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "ec73e2be2d4da44025150c7d683edd5dbd65bb62",
+    "branch": "master"
+  },
+  "sherpa": {
+    "sha": "8034a1aceac328c6a41d1cf831e24bf7c0064edf",
+    "branch": "master"
+  },
+  "sun": {
+    "sha": "9665e862d3e6fcc3ed13d85bb77caffdb62df89f",
+    "branch": "master"
+  },
+  "tambo": {
+    "sha": "ad9424e6ed0d69fd2f263b5eb08bbea3af69b73c",
+    "branch": "master"
+  },
+  "tandem": {
+    "sha": "c9b53278d443d93f9945c6addc02806271361ed1",
+    "branch": "master"
+  },
+  "vegas": {
+    "sha": "778cfc0bc9b2c11b35086c23dc4bef572c156ae9",
+    "branch": "master"
+  }
+}

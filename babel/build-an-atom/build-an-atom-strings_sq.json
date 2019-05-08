@@ -1,0 +1,47 @@
+{
+  "atom": {
+    "value": "Ndërto atomin"
+  },
+  "game": {
+    "value": "Lojë"
+  },
+  "electronsColon": {
+    "value": "elektronet"
+  },
+  "netCharge": {
+    "value": "Ngarkesa"
+  },
+  "symbol": {
+    "value": "Simboli"
+  },
+  "build-an-atom.title": {
+    "value": "Ndërtimi i një atomi"
+  },
+  "neutronsColon": {
+    "value": "neutronet"
+  },
+  "model": {
+    "value": "Modeli"
+  },
+  "orbits": {
+    "value": "Orbitat"
+  },
+  "cloud": {
+    "value": "Reja"
+  },
+  "protons": {
+    "value": "Protonet"
+  },
+  "element": {
+    "value": "Element"
+  },
+  "protonsColon": {
+    "value": "protonet"
+  },
+  "neutrons": {
+    "value": "Neutronet"
+  },
+  "electrons": {
+    "value": "Elektronet"
+  }
+}

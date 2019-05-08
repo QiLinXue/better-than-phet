@@ -1,0 +1,229 @@
+{
+  "angleUnit": {
+    "value": "˚",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "˚",
+        "explanation": null
+      }
+    ]
+  },
+  "centimeterUnit": {
+    "value": "см",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "см",
+        "explanation": null
+      }
+    ]
+  },
+  "charges-and-fields.title": {
+    "value": "Заряды и поля",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Заряды и поля",
+        "explanation": null
+      }
+    ]
+  },
+  "directionOnly": {
+    "value": "Только направление",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Только направление",
+        "explanation": null
+      }
+    ]
+  },
+  "eFieldUnit": {
+    "value": "В/м",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "В/м",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Электрическое поле",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Электрическое поле",
+        "explanation": null
+      }
+    ]
+  },
+  "equipotential": {
+    "value": "Эквипотенциальный",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Равнопотенциальный",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501495437058,
+        "oldValue": "Равнопотенциальный",
+        "newValue": "Эквипотенциальный",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Сетка",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Сетка",
+        "explanation": null
+      }
+    ]
+  },
+  "minusOneNanoC": {
+    "value": "-1 nC",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "-1 нКл",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502172071122,
+        "oldValue": "-1 нКл",
+        "newValue": "-1 nC",
+        "explanation": null
+      }
+    ]
+  },
+  "oneMeter": {
+    "value": "1 метр",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "1 метр",
+        "explanation": null
+      }
+    ]
+  },
+  "options.projectorColors": {
+    "value": "Режим проектора",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502172071122,
+        "oldValue": "",
+        "newValue": "Режим проектора",
+        "explanation": null
+      }
+    ]
+  },
+  "plusOneNanoC": {
+    "value": "+1 nC",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "+1 нКл",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502172071122,
+        "oldValue": "+1 нКл",
+        "newValue": "+1 nC",
+        "explanation": null
+      }
+    ]
+  },
+  "sensors": {
+    "value": "Датчики",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Тестовые заряды",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501495437058,
+        "oldValue": "Тестовые заряды",
+        "newValue": "Датчики",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Значения",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Характеристики",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501495437057,
+        "oldValue": "Характеристики",
+        "newValue": "Значения",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Напряжение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "Напряжение",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnit": {
+    "value": "В",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501046182094,
+        "oldValue": "",
+        "newValue": "В",
+        "explanation": null
+      }
+    ]
+  }
+}

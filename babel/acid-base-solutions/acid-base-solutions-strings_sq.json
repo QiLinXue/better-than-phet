@@ -1,0 +1,290 @@
+{
+  "acid": {
+    "value": "Acid",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Acid",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "Tretësirat acido-bazike",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Tretësirat acido-bazike",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "Bazë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Bazë",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "Përqendrimi i Ekuilibrit (mol/L)",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Përqendrimi i Ekuilibrit (mol/L)",
+        "explanation": null
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "Përqendrimi\nFillestar",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Përqendrimi\nFillestar",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "Molekulat",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Molekulat",
+        "explanation": null
+      }
+    ]
+  },
+  "negligible": {
+    "value": "I Neglizhueshëm",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "I Neglizhueshëm",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "Çelësi i ngjyrave sipas pH",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Çelësi i ngjyrave sipas pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label.1value": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "{0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Tretësira",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Tretësira",
+        "explanation": null
+      }
+    ]
+  },
+  "strength": {
+    "value": "Fortësia:",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Fortësia:",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "i fortë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "i fortë",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "Acid i Fortë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Acid i Fortë",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "Bazë e Fortë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Bazë e Fortë",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "më i fortë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "më i fortë",
+        "explanation": null
+      }
+    ]
+  },
+  "views": {
+    "value": "Pamjet",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Pamjet",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Ujë",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Ujë",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "i dobët",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "i dobët",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "Acid i Dobët",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Acid i Dobët",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "Bazë e Dobët",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "Bazë e Dobët",
+        "explanation": null
+      }
+    ]
+  },
+  "weaker": {
+    "value": "më e dobët",
+    "history": [
+      {
+        "userId": 156672,
+        "timestamp": 1456507721536,
+        "oldValue": "",
+        "newValue": "më e dobët",
+        "explanation": null
+      }
+    ]
+  }
+}

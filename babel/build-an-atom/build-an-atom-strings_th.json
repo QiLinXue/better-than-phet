@@ -1,0 +1,74 @@
+{
+  "ion": {
+    "value": "อิออน"
+  },
+  "stableSlashUnstable": {
+    "value": "แสดงความเสถียร"
+  },
+  "symbol": {
+    "value": "สัญลักษณ์"
+  },
+  "findTheElement": {
+    "value": "ค้นหาธาตุ:"
+  },
+  "massNumber": {
+    "value": "เลขมวล"
+  },
+  "atom": {
+    "value": "สร้างอะตอม"
+  },
+  "netCharge": {
+    "value": "ประจุรวม"
+  },
+  "element": {
+    "value": "ธาตุ"
+  },
+  "orbits": {
+    "value": "วงโคจร"
+  },
+  "model": {
+    "value": "แบบจำลองอะตอม:"
+  },
+  "whatIsTheMassNumber": {
+    "value": "เลขมวลมีค่าเท่าใด?"
+  },
+  "build-an-atom.title": {
+    "value": "สร้างอะตอม"
+  },
+  "whatIsTheTotalCharge": {
+    "value": "ประจุไฟฟ้ามีค่าเท่าใด?"
+  },
+  "electronsColon": {
+    "value": "อิเล็กตรอน:"
+  },
+  "game": {
+    "value": "เกม"
+  },
+  "neutralAtom": {
+    "value": "เป็นกลาง"
+  },
+  "neutralSlashIon": {
+    "value": "แสดง ประจุ"
+  },
+  "neutrons": {
+    "value": "นิวตรอน"
+  },
+  "protonsColon": {
+    "value": "โปรตรอน:"
+  },
+  "cloud": {
+    "value": "กลุ่มเมฆ"
+  },
+  "neutronsColon": {
+    "value": "นิวตรอน:"
+  },
+  "electrons": {
+    "value": "อิเล็กตรอน"
+  },
+  "isIt": {
+    "value": "มันคืออะไร:"
+  },
+  "protons": {
+    "value": "โปรตรอน"
+  }
+}

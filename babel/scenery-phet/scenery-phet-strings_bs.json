@@ -1,0 +1,134 @@
+{
+  "key.enter": {
+    "value": "Unos",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Unos",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Uhvati ili pusti {{thing}}",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Uhvati ili pusti {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Uhvati ili pusti {{thing}}",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Uhvati ili pusti {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "ili",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "ili",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Kraj",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1546119026661,
+        "oldValue": "",
+        "newValue": "Kraj",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Izađi",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1546119026661,
+        "oldValue": "",
+        "newValue": "Izađi",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Početak",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1546119026661,
+        "oldValue": "",
+        "newValue": "Početak",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normalno",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1537991000042,
+        "oldValue": "",
+        "newValue": "Normalno",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Sporo",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1537991000042,
+        "oldValue": "",
+        "newValue": "Sporo",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Hlađenje",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1495890302246,
+        "oldValue": "",
+        "newValue": "Hlađenje",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Grijanje",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1495890302246,
+        "oldValue": "",
+        "newValue": "Grijanje",
+        "explanation": null
+      }
+    ]
+  }
+}

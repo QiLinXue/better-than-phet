@@ -1,0 +1,374 @@
+{
+  "speed.normal": {
+    "value": "Обычная",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542605532751,
+        "oldValue": "",
+        "newValue": "Обычная",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "или",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "или",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Медленная",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542605532751,
+        "oldValue": "",
+        "newValue": "Медленная",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Space",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1554262693620,
+        "oldValue": "",
+        "newValue": "Space",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1554262693620,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471050962,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471050962,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550554439462,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Базовые действия",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Базовые действия",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Выход",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Выход",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Выйти из диалогового окна",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Выйти из диалогового окна",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Home",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Переходить между пунктами в группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Переходить между пунктами в группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Перейти к следующему пункту",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к следующему пункту",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Перейти к следующему пункту или группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к следующему пункту или группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Перейти к предыдущему пункту",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к предыдущему пункту",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Перейти к предыдущему пункту или группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к предыдущему пункту или группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Отметить пункт",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Отметить пункт",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Охлаждение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501580545910,
+        "oldValue": "",
+        "newValue": "Охлаждение",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Нагрев",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501580241680,
+        "oldValue": "",
+        "newValue": "Нагрев",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Короткое замыкание!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502272940150,
+        "oldValue": "",
+        "newValue": "Короткое замыкание!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501148223276,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL не активирован или не установлен. Нажмите здесь чтобы узнать больше. ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "WebGL не активирован или не установлен. Нажмите здесь чтобы узнать больше. ",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Извините, произошла ошибка",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Извините, произошла ошибка",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Перезагрузить",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Перезагрузить",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Для обновления браузера установите рекомендуемые обновления Windows.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "Для обновления браузера установите рекомендуемые обновления Windows.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Режим низкого качества графики",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "Режим низкого качества графики",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "key.enter": {
+    "value": "Tipka Enter",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Tipka Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Uhvati ili oslobodi {{thing}}",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Uhvati ili oslobodi {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Uhvati ili oslobodi {{thing}}",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Uhvati ili oslobodi {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Uobičajeno",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1556826871148,
+        "oldValue": "",
+        "newValue": "Uobičajeno",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "ili",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "ili",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Tipka Page Down",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Tipka Page Down",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Tipka Page Up",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Tipka Page Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Tipka Shift",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Tipka Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Sporo",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1556826871148,
+        "oldValue": "",
+        "newValue": "Sporo",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Razmaknica",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "",
+        "newValue": "Razmaknica",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Pošaljite zapisnik unosa",
+    "history": [
+      {
+        "userId": 148932,
+        "timestamp": 1549142987869,
+        "oldValue": "",
+        "newValue": "Pošaljite zapisnik unosa",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1556826871148,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1556826871148,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Hlađenje",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488372421576,
+        "oldValue": "",
+        "newValue": "Grij",
+        "explanation": null
+      },
+      {
+        "userId": 180275,
+        "timestamp": 1491295977159,
+        "oldValue": "Grij",
+        "newValue": "Hladi",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "Hladi",
+        "newValue": "Hlađenje",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Grijanje",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488372421577,
+        "oldValue": "",
+        "newValue": "Hladi",
+        "explanation": null
+      },
+      {
+        "userId": 180275,
+        "timestamp": 1491295977159,
+        "oldValue": "Hladi",
+        "newValue": "Grij",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1549142987868,
+        "oldValue": "Grij",
+        "newValue": "Grijanje",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Kratki spoj!",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1448217447784,
+        "oldValue": "",
+        "newValue": "Kratki spoj!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1507315470230,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  }
+}

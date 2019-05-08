@@ -1,0 +1,50 @@
+{
+  "chemistry": {
+    "value": "Химия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501051935307,
+        "oldValue": "",
+        "newValue": "Химия",
+        "explanation": null
+      }
+    ]
+  },
+  "friction.title": {
+    "value": "Трение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501051935307,
+        "oldValue": "",
+        "newValue": "Трение",
+        "explanation": null
+      }
+    ]
+  },
+  "physics": {
+    "value": "Физика",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501051935307,
+        "oldValue": "",
+        "newValue": "Физика",
+        "explanation": null
+      }
+    ]
+  },
+  "reset": {
+    "value": "Сброс",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501051935307,
+        "oldValue": "",
+        "newValue": "Сброс",
+        "explanation": null
+      }
+    ]
+  }
+}

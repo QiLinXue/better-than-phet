@@ -1,0 +1,98 @@
+{
+  "BalloonApplet.ShowAllCharges": {
+    "value": "Hiển thị tất cả điện tích",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Hiển thị tất cả điện tích",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowChargeDifferences": {
+    "value": "Hiển thị hiệu điện tích ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Hiển thị hiệu điện tích ",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowNoCharges": {
+    "value": "Không hiển thị điện tích",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Không hiển thị điện tích",
+        "explanation": null
+      }
+    ]
+  },
+  "addWall": {
+    "value": "Thêm\nTường ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032555,
+        "oldValue": "",
+        "newValue": "Thêm\nTường ",
+        "explanation": null
+      }
+    ]
+  },
+  "balloons-and-static-electricity.title": {
+    "value": "Bong bóng và tĩnh điện",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Bong bóng và tĩnh điện",
+        "explanation": null
+      }
+    ]
+  },
+  "removeWall": {
+    "value": "Bỏ\nTường",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Bỏ\nTường",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloon": {
+    "value": "Reset bong bóng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Reset bong bóng",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloons": {
+    "value": "Reset bong bóng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1456504032556,
+        "oldValue": "",
+        "newValue": "Reset bong bóng",
+        "explanation": null
+      }
+    ]
+  }
+}

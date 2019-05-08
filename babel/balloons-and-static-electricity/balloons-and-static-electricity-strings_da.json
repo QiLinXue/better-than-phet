@@ -1,0 +1,98 @@
+{
+  "BalloonApplet.ShowAllCharges": {
+    "value": "Vis alle ladninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Vis alle ladninger",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowChargeDifferences": {
+    "value": "Vis ladningsforskel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Vis ladningsforskel",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowNoCharges": {
+    "value": "Fjern ladninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Fjern ladninger",
+        "explanation": null
+      }
+    ]
+  },
+  "addWall": {
+    "value": "Tilføj\nvæg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Tilføj\nvæg",
+        "explanation": null
+      }
+    ]
+  },
+  "balloons-and-static-electricity.title": {
+    "value": "Balloner og statisk elektricitet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Balloner og statisk elektricitet",
+        "explanation": null
+      }
+    ]
+  },
+  "removeWall": {
+    "value": "Fjern\nvæg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Fjern\nvæg",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloon": {
+    "value": "Nulstil ballon",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Nulstil ballon",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloons": {
+    "value": "Nulstil balloner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456475433492,
+        "oldValue": "",
+        "newValue": "Nulstil balloner",
+        "explanation": null
+      }
+    ]
+  }
+}

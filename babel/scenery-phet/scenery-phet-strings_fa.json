@@ -1,0 +1,50 @@
+{
+  "speed.normal": {
+    "value": "نرمال",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1552040672832,
+        "oldValue": "",
+        "newValue": "نرمال",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "آهسته",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1552040672832,
+        "oldValue": "",
+        "newValue": "آهسته",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "سرما",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1485937840998,
+        "oldValue": "",
+        "newValue": "سرما",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "حرارت",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1485937840998,
+        "oldValue": "",
+        "newValue": "حرارت",
+        "explanation": null
+      }
+    ]
+  }
+}

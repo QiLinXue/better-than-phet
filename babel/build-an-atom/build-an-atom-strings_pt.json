@@ -1,0 +1,44 @@
+{
+  "atom": {
+    "value": "Construir Átomo"
+  },
+  "electronsColon": {
+    "value": "electrões:"
+  },
+  "netCharge": {
+    "value": "Carga Eléctrica"
+  },
+  "symbol": {
+    "value": "Símbolo"
+  },
+  "build-an-atom.title": {
+    "value": "Constrói um átomo"
+  },
+  "neutronsColon": {
+    "value": "neutrões:"
+  },
+  "model": {
+    "value": "Modelo"
+  },
+  "orbits": {
+    "value": "Orbitas"
+  },
+  "cloud": {
+    "value": "Nuvem Electrónica"
+  },
+  "protons": {
+    "value": "Protões"
+  },
+  "element": {
+    "value": "Elemento"
+  },
+  "neutrons": {
+    "value": "Neutrões"
+  },
+  "protonsColon": {
+    "value": "protões:"
+  },
+  "electrons": {
+    "value": "Electrões"
+  }
+}

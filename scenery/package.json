@@ -1,0 +1,36 @@
+{
+  "name": "scenery",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/scenery.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.0"
+  },
+  "phet": {
+    "generatedUnitTests": true,
+    "requirejsNamespace": "SCENERY",
+    "buildStandalone": true,
+    "isJSOnly": true,
+    "requiresLodash": true,
+    "requiresJQuery": true,
+    "assignGlobals": {
+      "scenery": "main",
+      "kite": "KITE/main",
+      "dot": "DOT/main",
+      "axon": "AXON/main",
+      "phetCore": "PHET_CORE/main"
+    },
+    "finalizeJS": "scenery.Util.polyfillRequestAnimationFrame();"
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js",
+    "globals": {
+      "himalaya": false,
+      "sceneryLog": false,
+      "he": false
+    }
+  }
+}

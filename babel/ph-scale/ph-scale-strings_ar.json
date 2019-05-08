@@ -1,0 +1,254 @@
+{
+  "acidic": {
+    "value": "حمضي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "حمضي",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "قلوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "قلوي",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "حمض البطارية",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "حمض البطارية",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "الدّم",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "الدّم",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "حساء دجاج",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "حساء دجاج",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "القهوة",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "القهوة",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "السائل حسب الطّلب",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "السائل حسب الطّلب",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "منظّف البالوعة",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "منظّف البالوعة",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "الصّابون اليدوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "الصّابون اليدوي",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "الحليب",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "الحليب",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "عصير البرتقال",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "عصير البرتقال",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "المياه الغازية",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "المياه الغازية",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "البصاق",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "البصاق",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "القيئ",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "القيئ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "الماء",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "الماء",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "محايد",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "محايد",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "ماكرو",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "ماكرو",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "ل",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449947473663,
+        "oldValue": "",
+        "newValue": "ل",
+        "explanation": null
+      }
+    ]
+  }
+}

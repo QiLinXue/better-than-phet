@@ -1,0 +1,26 @@
+{
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 253265,
+        "timestamp": 1448633759012,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 253265,
+        "timestamp": 1448633759011,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  }
+}

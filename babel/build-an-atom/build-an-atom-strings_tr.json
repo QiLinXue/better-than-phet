@@ -1,0 +1,47 @@
+{
+  "atom": {
+    "value": "Atom üretme"
+  },
+  "game": {
+    "value": "Oyun"
+  },
+  "electronsColon": {
+    "value": "Elektronlar"
+  },
+  "netCharge": {
+    "value": "Şarj"
+  },
+  "symbol": {
+    "value": "Sembol"
+  },
+  "build-an-atom.title": {
+    "value": "Atom üretme"
+  },
+  "neutronsColon": {
+    "value": "Nötronlar:"
+  },
+  "model": {
+    "value": "Model"
+  },
+  "orbits": {
+    "value": "Orbitaller"
+  },
+  "cloud": {
+    "value": "Bulut"
+  },
+  "protons": {
+    "value": "Protonlar"
+  },
+  "element": {
+    "value": "Element"
+  },
+  "protonsColon": {
+    "value": "Protonlar:"
+  },
+  "neutrons": {
+    "value": "Nötronlar"
+  },
+  "electrons": {
+    "value": "Elektronlar"
+  }
+}
