@@ -95,11 +95,11 @@ define( function( require ) {
 
     var frequencySlider = new Slider( {
       type: 'button',
-      buttonStep: 0.01,
+      buttonStep: 0.001,
       title: frequencyString,
       property: model.frequencyProperty,
       patternValueUnit: patternValueUnitHzString,
-      roundingDigits: 2,
+      roundingDigits: 3,
       range: Constants.frequencyRange
     } );
 
