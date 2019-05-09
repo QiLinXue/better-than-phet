@@ -42,7 +42,7 @@ define( function( require ) {
     tensionRange: new Range( -2, 2 ),
     dampingRange: new Range( 0, 100 ),
     frequencyRange: new Range( 0, 5 ),
-    pulseWidthRange: new Range( 0.2, 1 ),
+    pulseWidthRange: new Range( 0.2, 5 ),
     amplitudeRange: new Range( 0, 5 ),
 
     postGradient: new LinearGradient( -5, 0, 5, 0 )
