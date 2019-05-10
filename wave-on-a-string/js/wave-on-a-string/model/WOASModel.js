@@ -27,25 +27,25 @@ define( function( require ) {
     this.yNext = new Array( NSEGS );
     this.dotPerCm = 80;
 
-    this.modeProperty = new Property( 'manual' ); // 'manual', 'oscillate', 'pulse'
+    this.modeProperty = new Property( 'oscillate' ); // 'manual', 'oscillate', 'pulse'
     this.typeEndProperty = new Property( 'fixedEnd' ); // 'fixedEnd', 'looseEnd', 'noEnd'
     this.speedProperty = new Property( 1 ); // 1, 0.25
-    this.rulersProperty = new Property( false ); // visible rulers
-    this.timerProperty = new Property( false );  // visible timer
+    this.rulersProperty = new Property( true ); // visible rulers
+    this.timerProperty = new Property( true );  // visible timer
     this.referenceLineProperty = new Property( false ); // visible referenceLine
     this.tensionProperty = new Property( 2 ); // tension 0..2
-    this.dampingProperty = new Property( 20 ); // dumping 0..100
+    this.dampingProperty = new Property( 0 ); // dumping 0..100
     this.frequencyProperty = new Property( 1.50 ); // frequency 0.00 .. 3.00
     this.pulseWidthProperty = new Property( 0.5 ); // pulse width 0.00 .. 1.00
     this.amplitudeProperty = new Property( 0.75 ); // amplitude 0.0 .. 1.5
-    this.playProperty = new Property( true ); // play/pause state
+    this.playProperty = new Property( false ); // play/pause state
     this.lastDtProperty = new Property( 0.03 );
     this.timeProperty = new Property( 0 ); // base time
     this.angleProperty = new Property( 0 ); // angle for 'oscillate' and 'pulse' mode
     this.pulsePendingProperty = new Property( false ); // whether a pulse will start at the next proper model step
     this.pulseProperty = new Property( false ); // 'pulse' mode pulse active
     this.rulerLocHProperty = new Vector2Property( new Vector2( 54, 117 ) ); //position horizontal ruler
-    this.rulerLocVProperty = new Vector2Property( new Vector2( 13, 440 ) ); //position vertical ruler
+    this.rulerLocVProperty = new Vector2Property( new Vector2( 0, 440 ) ); //position vertical ruler
     this.referenceLineLocProperty = new Vector2Property( new Vector2( -10, 120 ) ); // position referenceLine
     this.timerStartProperty = new Property( false ); // timer start/pause status
     this.timerSecondProperty = new Property( 0 ); // timer time in seconds
@@ -190,7 +190,7 @@ define( function( require ) {
       var perStepDelta = numSteps ? ( ( this.nextLeftY - startingLeftY ) / numSteps ) : 0;
 
       //dt for tension effect
-      var minDt = ( 1 / ( fps * ( 0.2 + this.tensionProperty.get() * 0.4 ) * this.speedProperty.get() ) );
+      var minDt = ( 1 / ( fps * ( Math.sqrt(this.tensionProperty.get()) ) * this.speedProperty.get() ) );
       // limit max dt
       while ( dt >= fixDt ) {
         this.timeProperty.set( this.timeProperty.get() + fixDt );

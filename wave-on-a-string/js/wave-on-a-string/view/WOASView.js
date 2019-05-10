@@ -59,45 +59,9 @@ define( function( require ) {
     var typeRadio;
     var endTypeRadio;
 
-    var rulerOptions = { minorTicksPerMajorTick: 4, unitsFont: new PhetFont( 16 ), cursor: 'pointer' };
-    var rulerH = new RulerNode( 800, 50, 80, Util.rangeInclusive( 0, 10 ).map( function( n ) { return n + ''; } ), unitCmString, rulerOptions );
-    var rulerV = new RulerNode( 400, 50, 80, Util.rangeInclusive( 0, 5 ).map( function( n ) { return n + ''; } ), unitCmString, rulerOptions );
-    rulerV.rotate( -Math.PI / 2 );
-    this.addChild( rulerH );
-    this.addChild( rulerV );
-
-    model.rulersProperty.link( function updateRulersVisible( value ) {
-      rulerH.setVisible( value );
-      rulerV.setVisible( value );
-    } );
-    model.rulerLocHProperty.link( function updateRulerHLocation( value ) {
-      rulerH.translation = value;
-    } );
-    model.rulerLocVProperty.link( function updateRulerVLocation( value ) {
-      rulerV.translation = value;
-    } );
-    Constants.boundedDragHandler( rulerV, model.rulerLocVProperty, 30 );
-    Constants.boundedDragHandler( rulerH, model.rulerLocHProperty, 30 );
-
-    this.addChild( typeRadio = new RadioGroup( {
-      radio: [ 'manual', 'oscillate', 'pulse' ],
-      text: [ manualString, oscillateString, pulseString ],
-      property: model.modeProperty,
-      x: 5,
-      y: 5
-    } ) );
-    this.addChild( new RestartButton( model, { x: typeRadio.right + 10, y: 5 } ) );
-    this.addChild( endTypeRadio = new RadioGroup( {
-      radio: [ 'fixedEnd', 'looseEnd', 'noEnd' ],
-      text: [ fixedEndString, looseEndString, noEndString ],
-      property: model.typeEndProperty,
-      x: Constants.viewSize.width - 100,
-      y: 5
-    } ) );
-    endTypeRadio.right = Constants.viewSize.width - 5;
     this.addChild( new RadioGroup( {
       radio: [ 0.25, 1 ],
-      text: [ speedSlowString, speedNormalString ],
+      text: [ speedSlowString, speedNormalString],
       property: model.speedProperty,
       omitPanel: true,
       right: centerControlX - 30,
@@ -208,18 +172,51 @@ define( function( require ) {
     endNode.windowNode.x += Constants.endTheStringNode;
     endNode.windowNode.y += Constants.yTheStringNode;
     this.addChild( endNode.windowNode );
-    this.addChild( new ReferenceLine( model ) );
-    this.addChild( endNode );
-    this.addChild( new TheStringNode( model, this.frameEmitter, {
-      x: Constants.startTheStringNode,
-      y: Constants.yTheStringNode,
-      radius: Constants.segmentTheStringNodeRadius
-    } ) );
     this.addChild( new StartNode( model, this.frameEmitter, {
       x: Constants.startTheStringNode,
       y: Constants.yTheStringNode,
       range: Constants.yWrenchRange
     } ) );
+    this.addChild( endNode );
+        // RULER NODE
+        var rulerOptions = { minorTicksPerMajorTick: 4, majorTickFont: new PhetFont( 14 ), unitsFont: new PhetFont( 14 ), cursor: 'pointer', backgroundFill: 'rgb(230,184,156)'};
+        var rulerH = new RulerNode( 800, 30, 40, Util.rangeInclusive( 0, 20 ).map( function( n ) { if(n%2 === 0){return n/2 + '';} } ), unitCmString, rulerOptions );
+        var rulerV = new RulerNode( 400, 30, 40, Util.rangeInclusive( 0, 10 ).map( function( n ) { if(n%2 === 0){return n/2 + '';} } ), unitCmString, rulerOptions );
+        
+        rulerV.rotate( -Math.PI / 2 );
+        this.addChild( rulerH );
+        this.addChild( rulerV );
+    
+        model.rulersProperty.link( function updateRulersVisible( value ) {
+          rulerH.setVisible( value );
+          rulerV.setVisible( value );
+        } );
+        model.rulerLocHProperty.link( function updateRulerHLocation( value ) {
+          rulerH.translation = value;
+        } );
+        model.rulerLocVProperty.link( function updateRulerVLocation( value ) {
+          rulerV.translation = value;
+        } );
+        Constants.boundedDragHandler( rulerV, model.rulerLocVProperty, 30 );
+        Constants.boundedDragHandler( rulerH, model.rulerLocHProperty, 30 );
+
+    this.addChild( typeRadio = new RadioGroup( {
+      radio: [ 'manual', 'oscillate', 'pulse' ],
+      text: [ manualString, oscillateString, pulseString ],
+      property: model.modeProperty,
+      x: 5,
+      y: 5
+    } ) );
+    this.addChild( new RestartButton( model, { x: typeRadio.right + 10, y: 5 } ) );
+    this.addChild( endTypeRadio = new RadioGroup( {
+      radio: [ 'fixedEnd', 'looseEnd', 'noEnd' ],
+      text: [ fixedEndString, looseEndString, noEndString ],
+      property: model.typeEndProperty,
+      x: Constants.viewSize.width - 100,
+      y: 5
+    } ) );
+    endTypeRadio.right = Constants.viewSize.width - 5;
+
     this.addChild( windowImage = new Node( {
       children: [ new Image( windowEdgeImage, {
         left: Constants.windowXOffset - 4 + Constants.windowShift,
@@ -227,6 +224,13 @@ define( function( require ) {
         scale: Constants.windowScale
       } ) ], x: Constants.endTheStringNode, y: Constants.yTheStringNode
     } ) );
+    this.addChild( new TheStringNode( model, this.frameEmitter, {
+      x: Constants.startTheStringNode,
+      y: Constants.yTheStringNode,
+      radius: Constants.segmentTheStringNodeRadius
+    } ) );
+    this.addChild( new ReferenceLine( model ) );
+
 
     model.typeEndProperty.link( function updateVisible( value ) {
       windowImage.setVisible( value === 'noEnd' );

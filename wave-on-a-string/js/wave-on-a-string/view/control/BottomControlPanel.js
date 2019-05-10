@@ -30,6 +30,7 @@ define( function( require ) {
   var patternValueUnitHzString = require( 'string!WAVE_ON_A_STRING/patternValueUnitHz' );
   var patternValueUnitPercentageString = require( 'string!WAVE_ON_A_STRING/patternValueUnitPercentage' );
   var patternValueUnitSString = require( 'string!WAVE_ON_A_STRING/patternValueUnitS' );
+  var patternValueUnitTension = require( 'string!WAVE_ON_A_STRING/patternValueUnitTension');
   var pulseWidthString = require( 'string!WAVE_ON_A_STRING/pulseWidth' );
   var referenceLineString = require( 'string!WAVE_ON_A_STRING/referenceLine' );
   var rulersString = require( 'string!WAVE_ON_A_STRING/rulers' );
@@ -64,21 +65,33 @@ define( function( require ) {
 
     var tensionSlider = new Slider( {
       title: tensionString,
+      buttonStep: 0.01,
+      type: 'button',
       property: model.tensionProperty,
-      round: false,
+      roundingDigits: 2,
       range: Constants.tensionRange,
-      titleVerticalOffset: 15,
-      tick: { step: 0.25, minText: lowString, maxText: highString },
-      constrainValue: function( value ) {
-        // logic to round the value to nearest .25 to have snap behaviour
-        value = Util.toFixedNumber( value, 2 );
-        value = value * 100;
-        value = Util.roundSymmetric( value / 25 ) * 25;
-        value = value / 100;
-        return value;
-      }
+      patternValueUnit: patternValueUnitTension,
+      // titleVerticalOffset: 15,
+      // tick: { step: 0.25, minText: lowString, maxText: highString },
+      // constrainValue: function( value ) {
+      //   // logic to round the value to nearest .25 to have snap behaviour
+      //   value = Util.toFixedNumber( value, 2 );
+      //   value = value * 100;
+      //   value = Util.roundSymmetric( value / 25 ) * 25;
+      //   value = value / 100;
+      //   return value;
+      // }
     } );
 
+    // var frequencySlider = new Slider( {
+    //   type: 'button',
+    //   buttonStep: 0.001,
+    //   title: frequencyString,
+    //   property: model.frequencyProperty,
+    //   patternValueUnit: patternValueUnitHzString,
+    //   roundingDigits: 3,
+    //   range: Constants.frequencyRange
+    // } );
     tensionSlider.right = separator.left - 20;
 
     var dampingSlider = new Slider( {
@@ -119,11 +132,11 @@ define( function( require ) {
 
     var amplitudeSlider = new Slider( {
       type: 'button',
-      buttonStep: 0.01,
+      buttonStep: 0.001,
       title: amplitudeString,
       property: model.amplitudeProperty,
       patternValueUnit: patternValueUnitCmString,
-      roundingDigits: 2,
+      roundingDigits: 3,
       range: Constants.amplitudeRange
     } );
 

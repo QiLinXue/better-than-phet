@@ -116,6 +116,7 @@ define( function( require ) {
         left: 0,
         centerY: 15
       } ) );
+
       buttonNode.addChild( new Rectangle( 0, 0, 90, 30, 5, 5, {
         fill: '#FFF',
         stroke: '#000',
